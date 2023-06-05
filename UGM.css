@@ -1,0 +1,58 @@
+*,html,body{
+  margin:0;
+  padding:0;
+}
+
+/* Reset default styles */
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Apply custom styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+  .navbar {
+  background-color: #005da5;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar .logo {
+  color: #fff;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.navbar-items {
+  list-style: none;
+  display: flex;
+}
+
+.navbar-items li {
+  margin-right: 10px;
+}
+
+.navbar-items li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+}
+
+nav {
+  /* Styles for the navigation menu */
+}
+
+main {
+  /* Styles for the main content */
+}
+
+footer {
+  /* Styles for the footer */
+}
